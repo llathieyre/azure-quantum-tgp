@@ -15,7 +15,7 @@ See the Jupyter notebooks
 View the executed notebooks with nbviewer: [`paper-figures.ipynb`](https://nbviewer.org/github/microsoft/azure-quantum-tgp/blob/executed_notebooks/notebooks/paper-figures.ipynb), [`stage-two-analysis.ipynb`](https://nbviewer.org/github/microsoft/azure-quantum-tgp/blob/executed_notebooks/notebooks/stage-two-analysis.ipynb), [`stage-one-analysis.ipynb`](https://nbviewer.org/github/microsoft/azure-quantum-tgp/blob/executed_notebooks/notebooks/stage-one-analysis.ipynb), [`yield-analysis.ipynb`](https://nbviewer.org/github/microsoft/azure-quantum-tgp/blob/executed_notebooks/notebooks/yield-analysis.ipynb), [`fridge-calibration.ipynb`](https://nbviewer.org/github/microsoft/azure-quantum-tgp/blob/executed_notebooks/notebooks/fridge-calibration.ipynb).
 
 ## Data
-
+.
 We store the raw data in this repository using Git LFS in the [`data/`](data) folder.
 Install [Git LFS](https://git-lfs.github.com/) before cloning this repository.
 
